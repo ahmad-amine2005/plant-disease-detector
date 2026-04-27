@@ -1,0 +1,5 @@
+# Place your model files here:
+# - global_mobilenet_pv_pv_white.json
+# - global_mobilenet_pv_pv_white.h5
+# Then run: python model_converter.py
+# Output: plant_disease_model_int8.tflite
